@@ -1,0 +1,1 @@
+**Data**: delaney-processed.csv from DeepChem (MIT licence, © 2017 PandeLab), originally from Delaney, J. S. (2004). ESOL: Estimating Aqueous Solubility Directly from Molecular Structure. J. Chem. Inf. Comput. Sci., 44(3), 1000–1005. https://doi.org/10.1021/ci034243x
